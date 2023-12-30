@@ -1,4 +1,4 @@
-# Nayeem Mustakim's-Portfolio
+# Nayeem Mustakim's portfolio
 
 <p align="left">
   <img width="1000" alt="Portfolio banner" src="https://github.com/nmustakim/portfolio/blob/main/portfolio-banner.png" />
