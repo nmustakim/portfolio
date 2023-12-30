@@ -22,6 +22,8 @@ Real-estate mobile application (Android & IOS)
 - Beautiful onboarding layout 
 - Search by filters including price, floor area, property type, and many more
 - Search properties by address
+- Alert service
+- Save last searches
 - Search properties by area
 - Save properties as Favorite 
 - Edit account details easily
@@ -32,6 +34,10 @@ Real-estate mobile application (Android & IOS)
 - Push Notification
 - Add, update, delete properties
 - and many more...
+
+
+
+https://github.com/nmustakim/portfolio/assets/98794936/fdbf0be6-4a92-43f7-922e-8609569197e7
 
 
 
