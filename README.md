@@ -31,10 +31,10 @@ Real-estate mobile application (Android & IOS)
 - Address management (Adding and Editing addresses)
 - Push Notification
 - Add, update, delete properties
+- and many more...
 
 
- 
-https://github.com/nmustakim/portfolio/blob/main/_.mp4
+
 
 
 
