@@ -9,7 +9,7 @@ Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub r
 # Housiko
 
 <p align="left">
-  <img width="1000" alt="iPhone13Mockup1" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/afe38650-a8ea-4280-ae57-d91bdad373b1" />
+  <img width="1000" alt="housiko-screens" src="https://github.com/nmustakim/portfolio/blob/main/housiko.png" />
 </p>
 
 
