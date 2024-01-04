@@ -28,7 +28,7 @@ Real-estate mobile application (Android & IOS)
 - Save properties as Favorite 
 - Edit account details easily
 - Change Password Easily
-- Beautiful Product pages with reviews, descriptions, and features
+- Beautiful Property pages with reviews, descriptions, and features
 - Responsive
 - Address management (Adding and Editing addresses)
 - Push Notification
@@ -41,7 +41,19 @@ https://github.com/nmustakim/portfolio/assets/98794936/fdbf0be6-4a92-43f7-922e-8
 # Privilege App
 
 ![Privilege-app-ss-collage](https://github.com/nmustakim/portfolio/assets/98794936/6a785cd0-c05b-4b93-ab38-2336b3f06a4b)
-
+## Application Features:
+- Authentication (Login/Sign up),
+- Reset Password 
+- Admin panel 
+- Edit Account and Details 
+- Change Password Easily
+- Beautiful pages with details including images and documents, descriptions, and features
+- Responsive
+- Push Notification
+- Add, update, delete deal
+- Add Category
+- Document viewer
+- and many more...
 
 
 
