@@ -38,8 +38,8 @@ Real-estate mobile application (Android & IOS)
 
 
 https://github.com/nmustakim/portfolio/assets/98794936/fdbf0be6-4a92-43f7-922e-8609569197e7
-# Privilege App
-Offer sharing mobile app (Android & IOS)
+# Park House Privilege App
+Offer sharing mobile app for the employee of Park House English School (Android & IOS)
 <p align="left">
   <img width="1000" alt="Privilege App Screens" src="https://github.com/nmustakim/portfolio/blob/main/Privilege-app-ss-collage.png" />
 </p>
