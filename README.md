@@ -41,7 +41,7 @@ https://github.com/nmustakim/portfolio/assets/98794936/fdbf0be6-4a92-43f7-922e-8
 # Privilege App
 Offer sharing mobile app (Android & IOS)
 <p align="left">
-  <img width="1000" alt="housiko-screens" src="https://github.com/nmustakim/portfolio/blob/main/Privilege-app-ss-collage.png" />
+  <img width="1000" alt="Privilege App Screens" src="https://github.com/nmustakim/portfolio/blob/main/Privilege-app-ss-collage.png" />
 </p>
 ## Application Features:
 - Authentication (Login/Sign up),
@@ -56,9 +56,21 @@ Offer sharing mobile app (Android & IOS)
 - Add Category
 - Document viewer
 - and many more...
+# Park House Attendance Management App
+![pha-ss-collage](https://github.com/nmustakim/portfolio/assets/98794936/39e5d5c8-42a9-43fa-8c59-680e464b432e)
 
-
-
+## Application Features:
+- Authentication (Login, Logout),
+- Attendance through scanning QR code
+- Attendance manually
+- Attendance management
+- Export to excel
+- Download excel file
+- Share excel file through whatsapp, email, message etc.
+- Refresh attendance sheet everyday
+- Avoid duplication
+- Add, delete student
+- and many more...
 
 
 
