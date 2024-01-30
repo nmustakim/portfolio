@@ -43,6 +43,7 @@ Offer sharing mobile app (Android & IOS)
 <p align="left">
   <img width="1000" alt="Privilege App Screens" src="https://github.com/nmustakim/portfolio/blob/main/Privilege-app-ss-collage.png" />
 </p>
+
 ## Application Features:
 - Authentication (Login/Sign up),
 - Reset Password 
@@ -56,8 +57,13 @@ Offer sharing mobile app (Android & IOS)
 - Add Category
 - Document viewer
 - and many more...
-# Park House Attendance Management App
-![pha-ss-collage](https://github.com/nmustakim/portfolio/assets/98794936/39e5d5c8-42a9-43fa-8c59-680e464b432e)
+
+# Park House Attendance Management
+Attendance management system for Park House english School
+<p align="left">
+  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/Privilege-app-ss-collage.png" />
+</p>
+
 
 ## Application Features:
 - Authentication (Login, Logout),
