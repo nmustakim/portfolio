@@ -7,7 +7,7 @@
 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of some Flutter projects I worked in. As a Flutter Developer, I am currently seeking remote opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out! 
 
 # Housiko 
-Real-estate mobile application (Android & IOS)
+Real-estate mobile application (Android & iOS)
 
 <p align="left">
   <img width="1000" alt="housiko-screens" src="https://github.com/nmustakim/portfolio/blob/main/housiko.png" />
@@ -17,7 +17,7 @@ Real-estate mobile application (Android & IOS)
 ## Application Features:
 
 - Available in English & ready for new language 
-- Authentication (Login/Sign up), Google,Facebook, Apple SignIn
+- Authentication (Login/Sign up)
 - Reset Password 
 - Beautiful onboarding layout 
 - Search by filters including price, floor area, property type, and many more
@@ -39,7 +39,7 @@ Real-estate mobile application (Android & IOS)
 
 https://github.com/nmustakim/portfolio/assets/98794936/fdbf0be6-4a92-43f7-922e-8609569197e7
 # Park House Privilege App
-Offer sharing mobile app for the employee of Park House English School (Android & IOS)
+Offer sharing mobile app for the employee of Park House English School (Android & iOS)
 <p align="left">
   <img width="1000" alt="Privilege App Screens" src="https://github.com/nmustakim/portfolio/blob/main/Privilege-app-ss-collage.png" />
 </p>
@@ -59,7 +59,7 @@ Offer sharing mobile app for the employee of Park House English School (Android 
 - and many more...
 
 # Park House Attendance Management
-Attendance management system for Park House english School
+Attendance management system for Park House english School (Android & iOS)
 <p align="left">
   <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/pha-ss-collage.png" />
 </p>
