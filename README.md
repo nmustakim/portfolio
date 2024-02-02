@@ -61,7 +61,7 @@ Offer sharing mobile app for the employee of Park House English School (Android 
 # Park House Attendance Management
 Attendance management system for Park House english School (Android & iOS)
 <p align="left">
-  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/pha-ss-collage.png" />
+  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/PHA-SS-Collage.png" />
 </p>
 
 
