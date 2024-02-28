@@ -78,5 +78,14 @@ Attendance management system for Park House english School (Android & iOS)
 - Add, delete student
 - and many more...
 
+# Orion Leads
+Lead Retrieval App (Android & iOS)
+<p align="left">
+  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/PHA-SS-Collage.png" />
+</p>
 
-
+## Application Features:
+- Attendance through scanning barcode
+- Note taking space
+- Add & Update feature
+- and many more...
