@@ -85,6 +85,9 @@ Lead Retrieval App (Android & iOS)
 </p>
 
 ## Application Features:
+- Authentication (Login, Logout),
+- Two types of user
+- Session management
 - Attendance through scanning barcode
 - Note taking space
 - Add & Update feature
