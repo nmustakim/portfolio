@@ -81,7 +81,7 @@ Attendance management system for Park House english School (Android & iOS)
 # Orion Leads
 Lead Retrieval App (Android & iOS)
 <p align="left">
-  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/olead-retrieval%20ss.png" />
+  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/Blue%20Smartphone%20Promo%20Poster.png" />
 </p>
 
 ## Application Features:
