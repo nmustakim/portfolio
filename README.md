@@ -38,6 +38,25 @@ Real-estate mobile application (Android & iOS)
 
 
 https://github.com/nmustakim/portfolio/assets/98794936/fdbf0be6-4a92-43f7-922e-8609569197e7
+
+
+# Orion Leads
+Lead Retrieval App (Android & iOS)
+<p align="left">
+  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/Blue%20Smartphone%20Promo%20Poster.png" />
+</p>
+
+## Application Features:
+- Authentication (Login, Logout),
+- Two types of user
+- Session management
+- Attendance through scanning barcode
+- Note taking space
+- Add & Update feature
+- Histories
+- and many more...
+
+
 # Park House Privilege App
 Offer sharing mobile app for the employee of Park House English School (Android & iOS)
 <p align="left">
@@ -78,18 +97,3 @@ Attendance management system for Park House english School (Android & iOS)
 - Add, delete student
 - and many more...
 
-# Orion Leads
-Lead Retrieval App (Android & iOS)
-<p align="left">
-  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/Blue%20Smartphone%20Promo%20Poster.png" />
-</p>
-
-## Application Features:
-- Authentication (Login, Logout),
-- Two types of user
-- Session management
-- Attendance through scanning barcode
-- Note taking space
-- Add & Update feature
-- Histories
-- and many more...
