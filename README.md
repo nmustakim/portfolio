@@ -40,6 +40,31 @@ Real-estate mobile application (Android & iOS)
 https://github.com/nmustakim/portfolio/assets/98794936/fdbf0be6-4a92-43f7-922e-8609569197e7
 
 
+# PB Customer Orders
+Orders managenent app (Android, iOS & macOS)  
+Introducing PB Customer Orders: The Ultimate Solution for Streamlining Order Management Process of Prime Bazaar
+
+PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamlines order management, enhances customer experience, and boosts operational efficiency.
+
+<p align="left">
+  <img width="1000" alt="housiko-screens" src="https://github.com/nmustakim/portfolio/blob/main/housiko.png" />
+</p>
+## Application Features:
+
+- Easily store order details and print with a single button press.
+
+
+- Update order completion status with a long press on the specific order tile.
+
+
+- Orders are immediately added to the history list upon storage.
+
+
+- Efficient search functionality. Search by name, search by ID
+
+
+- Features include updating printer IP address, password change, and logout option.
+
 # Orion Leads
 Lead Retrieval App (Android & iOS)  https://apps.apple.com/us/app/orion-scan/id6479172394
 <p align="left">
