@@ -49,17 +49,26 @@ PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamline
 
 ## Application Features:
 
-- Easily store order details and print with a single button press.
+Introducing PB Customer Orders: The Ultimate Solution for Streamlining Order Management Process of Prime Bazaar
 
-- Update order completion status with a long press.
 
-- Orders are immediately added to the history list upon storage.
 
-- Efficient search functionality. Search by name, search by ID
+PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamlines order management, enhances customer experience, and boosts operational efficiency.
 
-- Printer configuration.
-- Scheduled alert notification
 
+Key Features:
+
+Store & Print Orders: Easily store order details and print with a single button press.
+
+Manage Completion Status: Update order completion status with a long press on the specific order tile.
+
+Order History: Orders are immediately added to the history list upon storage.
+
+Search Feature: Efficient search functionality. Search by name and search by ID
+
+Settings: Features include updating printer ip configuration, closing & opening checklists, password change, and logout option.
+
+Notification: Scheduled alert notification to ensure closing and opening duties
 
 # Orion Scan
 Lead Retrieval App (Android & iOS)  https://apps.apple.com/us/app/orion-scan/id6479172394
@@ -70,14 +79,20 @@ Lead Retrieval App (Android & iOS)  https://apps.apple.com/us/app/orion-scan/id6
 
 
 ## Application Features:
-- Authentication (Login, Logout),
-- Two types of user
-- Session management
-- Attendance through scanning barcode
-- Note taking space
-- Add & Update feature
-- Histories
-- and many more...
+Orion Scan is an exclusive app developed for Orion Expo Inc.
+
+Key Features:
+
+
+Instant QR and Barcode Scanning: Effortlessly scan QR and Barcodes with lightning speed using your device's camera.
+
+Data Interpretation: Orion Badge Scanner not only scans QR codes but also reads and interprets the embedded data, providing you with valuable insights instantly.
+
+Swift Data Transfer: Transmit scanned data securely to your server in real-time, ensuring no delays or disruptions in your workflow.
+
+Admin Panel Access: Take control of your data with our user-friendly admin panel, allowing for seamless administrative management and analysis.
+
+Secure and Reliable: Rest assured, your data is encrypted and safeguarded every step of the way, maintaining the highest standards of security and reliability.
 
 
 # Park House Privilege App
