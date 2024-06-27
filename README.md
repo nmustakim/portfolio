@@ -47,7 +47,7 @@ Introducing PB Customer Orders: The Ultimate Solution for Streamlining Order Man
 PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamlines order management, enhances customer experience, and boosts operational efficiency.
 
 <p align="left">
-  <img width="1000" alt="housiko-screens" src="https://github.com/nmustakim/portfolio/blob/main/housiko.png" />
+  <img width="1000" alt="PB Customer Order app screens" src="https://github.com/nmustakim/portfolio/blob/main/image.png" />
 </p>
 ## Application Features:
 
