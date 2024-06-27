@@ -65,7 +65,8 @@ PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamline
 
 # Orion Leads
 Lead Retrieval App (Android & iOS)  https://apps.apple.com/us/app/orion-scan/id6479172394
-![image](https://github.com/nmustakim/portfolio/assets/98794936/f1a3b407-c2f8-471c-ba79-3b19259b74eb)
+![image](https://github.com/nmustakim/portfolio/assets/98794936/576f4a7f-9162-4f35-b929-82894885404c)
+
 
 
 ## Application Features:
