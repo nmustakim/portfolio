@@ -53,17 +53,15 @@ PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamline
 
 - Easily store order details and print with a single button press.
 
-
-- Update order completion status with a long press on the specific order tile.
-
+- Update order completion status with a long press.
 
 - Orders are immediately added to the history list upon storage.
 
-
 - Efficient search functionality. Search by name, search by ID
 
+- Printer configuration.
+- Scheduled alert notification
 
-- Features include updating printer IP address, password change, and logout option.
 
 # Orion Leads
 Lead Retrieval App (Android & iOS)  https://apps.apple.com/us/app/orion-scan/id6479172394
