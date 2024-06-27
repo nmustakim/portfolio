@@ -45,10 +45,8 @@ Orders managenent app (Android, iOS & macOS)
 Introducing PB Customer Orders: The Ultimate Solution for Streamlining Order Management Process of Prime Bazaar
 
 PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamlines order management, enhances customer experience, and boosts operational efficiency.
+![image](https://github.com/nmustakim/portfolio/assets/98794936/576f4a7f-9162-4f35-b929-82894885404c)
 
-<p align="left">
-  <img width="1000" alt="PB Customer Order app screens" src="https://github.com/nmustakim/portfolio/blob/main/image.png" />
-</p>
 ## Application Features:
 
 - Easily store order details and print with a single button press.
@@ -65,7 +63,8 @@ PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamline
 
 # Orion Leads
 Lead Retrieval App (Android & iOS)  https://apps.apple.com/us/app/orion-scan/id6479172394
-![image](https://github.com/nmustakim/portfolio/assets/98794936/576f4a7f-9162-4f35-b929-82894885404c)
+![Uploading image.png…]()
+
 
 
 
