@@ -35,7 +35,7 @@ Real-estate mobile application (Android & iOS)
 - Add, update, delete properties
 - and many more...
 
-
+Project description. I worked on several parts of the app including but not limited to the following: Search Functionality using different filters and showing last search result, Dynamic filter selection, Showing map marker according to the properties number of the respective area, UI development of the users published properties and publish properties, Some REST API integration, Responsive UI, Adding and updating features as per client needs, Collaborating with others team-members, UI Bug fixing and many more
 
 https://github.com/nmustakim/portfolio/assets/98794936/fdbf0be6-4a92-43f7-922e-8609569197e7
 
