@@ -115,23 +115,5 @@ Offer sharing mobile app for the employee of Park House English School (Android 
 - Document viewer
 - and many more...
 
-# Park House Attendance Management
-Attendance management system for Park House english School (Android & iOS)
-<p align="left">
-  <img width="1000" alt="PHA Screens" src="https://github.com/nmustakim/portfolio/blob/main/PHA-SS-Collage.png" />
-</p>
 
-
-## Application Features:
-- Authentication (Login, Logout),
-- Attendance through scanning QR code
-- Attendance manually
-- Attendance management
-- Export to excel
-- Download excel file
-- Share excel file through whatsapp, email, message etc.
-- Refresh attendance sheet everyday
-- Avoid duplication
-- Add, delete student
-- and many more...
 
