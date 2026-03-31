@@ -57,31 +57,40 @@ PB Customer Orders is an exclusive app developed for Prime Bazaar. It streamline
 
 
 🚀 Key Features
+
 🖨️ Semi-Auto Print Tag
 Automatically syncs with the POS system to detect new or updated items and print tags using a thermal printer with minimal manual effort.
+
 🧾 Store & Print Orders
 Quickly store customer orders and print receipts instantly with a single button press, ensuring a smooth checkout experience.
+
 📦 Inventory Management
 Basic inventory control system with the ability to:
 Add, update, and delete products
 Check stock levels
 Scan items using a barcode scanner for fast operations
+
 📍 Attendance System
 Geo-location-based attendance tracking to ensure accurate employee check-ins and check-outs.
+
 ✅ Manage Completion Status
 Easily update order completion status by long-pressing on individual order tiles for quick workflow management.
+
 📜 Order History
 All stored orders are automatically recorded and added to the history list for easy tracking and review.
+
 🔍 Search Functionality
 Efficient search system that allows users to:
 Search by product/order name
 Search by ID
+
 ⚙️ Settings
 Comprehensive settings panel including:
 Printer IP configuration
 Opening & closing checklist management
 Password update
 Secure logout
+
 🔔 Notifications
 Scheduled alert notifications to ensure timely completion of opening and closing duties.
 
